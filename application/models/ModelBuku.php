@@ -52,7 +52,7 @@ $this->db->delete('kategori', $where);
 }
 public function updateKategori($where = null, $data = null)
 {
-$this->db->update('kategori', $data, $where);
+    $this->db->update('kategori', $data, $where);
 }
 
 //join

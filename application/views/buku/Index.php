@@ -132,7 +132,7 @@ stok">
  <button type="button" class="btn btn-secondary"
 data-dismiss="modal"><i class="fas fa-ban"></i> Close</button>
  <button type="submit" class="btn btn-primary"><i
-class="fas fa-plus-circle"></i> Tambah</button>
+ class="fas fa-plus-circle"></i> Tambah</button>
  </div>
  </form>
  </div>

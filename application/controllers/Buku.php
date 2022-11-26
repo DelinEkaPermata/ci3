@@ -188,8 +188,8 @@ true),
 
  public function hapusBuku()
  {
- $where = ['id' => $this->uri->segment(3)];
- $this->ModelBuku->hapusBuku($where);
- redirect('buku');
- }
-}
+   $where = ['id' => $this->uri->segment(3)];
+   $this->ModelBuku->hapusBuku($where);
+   redirect('buku');
+   }
+  }
